@@ -5,5 +5,5 @@ I designed it for my UX/UI Design course at ReDi School of Digital Integration. 
 
 You can see [here](https://youtu.be/rOwtY2WfAbM) the 2-minute video of the project that I used for the final project presentation at Redi School of Digital Integration.
 
-<img src="red.PNG" alt="screenshot">
+<img src="Red.PNG" alt="screenshot">
 
